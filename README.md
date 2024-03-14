@@ -15,7 +15,15 @@
 ## 2. 개발 환경 및 배포 URL
 
 ### 2.1 개발 환경
-- Django 5.0.3
+- 사용 툴
+    - VSCode
+- 사용 언어
+    - HTML
+    - CSS
+    - JS
+    - Python
+- Web Framework
+    - Django 5.0.2
 
 ### 2.2 배포 URL
 -미완성
